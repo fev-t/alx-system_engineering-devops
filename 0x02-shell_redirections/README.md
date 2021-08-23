@@ -1,0 +1,1 @@
+This is shell input and output shell redirection
